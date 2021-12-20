@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @evolvingcodes
-- 👀 I’m interested in AI, ML, Robotics and Software development
-- 🌱 I’m currently learning AI, ML, Robotics
-- 💞️ I’m looking to collaborate on AI, ML, Robotics and Software development projects
+- 👀 I’m interested in ai, ml, and coding
+- 🌱 I’m currently learning ai & ml
+- 💞️ I’m looking to collaborate on ai & ml projects
 - 📫 How to reach me: by email x@dube.digital
 
 <!---
